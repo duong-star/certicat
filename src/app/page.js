@@ -73,6 +73,7 @@ export default function Home() {
                       height="80"
                       alt="Stripe"
                       src="/resources/images/stripe.png"
+                      className="shadow-md"
                     />
                     <Image
                       priority
@@ -80,6 +81,7 @@ export default function Home() {
                       height="80"
                       alt="Stripe"
                       src="/resources/images/ssl.png"
+                      className="shadow-md"
                     />
                   </div>
                 </div>
