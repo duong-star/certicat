@@ -17,9 +17,10 @@ export default function Home() {
                   <a href="/#pricing">Preturi</a>
                 </nav>
               </div>
-              <button appbtn="" size="sm" variant="black" class="bg-black dark:bg-gray-800 disabled:opacity-50 disabled:pointer-events-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-ring font-medium h-9 hover:bg-black/80 inline-flex items-center justify-center px-3 ring-offset-background rounded-md text-sm text-white transition-colors whitespace-nowrap">Contact</button>
+              <button appbtn="" size="sm" variant="black" className="bg-black dark:bg-gray-800 disabled:opacity-50 disabled:pointer-events-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-ring font-medium h-9 hover:bg-black/80 inline-flex items-center justify-center px-3 ring-offset-background rounded-md text-sm text-white transition-colors whitespace-nowrap">Contact</button>
             </div>
           </app-header>
+          <div className="flex-1"></div>
         </div>
       </div>
     </div>
