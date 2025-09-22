@@ -13,7 +13,7 @@ export default function Home() {
                 width="160"
                 height="40"
                 alt="CertificatConstatator.ro"
-                src="/resources/images/Logo.png"
+                src="/resources/images/logo.png"
               />
             </Link>
             <div className="flex-1 hidden md:block">
